@@ -28,7 +28,7 @@ void loop() {
       // 1. Check if GPS has a fix on a satellite
       if (!gps.location.isValid()) { 
           lcd.setCursor(0,0);
-          lcd.print("");
+          lcd.print("            ");
         lcd.setCursor(0,0); 
         lcd.print("Waiting for GPS"); 
       return;
