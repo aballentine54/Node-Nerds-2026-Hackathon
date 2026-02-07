@@ -13,10 +13,6 @@
 SoftwareSerial gpsSerial(RXPin, TXPin);
 TinyGPSPlus gps;
 
-double LocationOneLat = 39.78290;
-double LocationOneLong = -84.06158;
-
-
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);// For the serial monitor
