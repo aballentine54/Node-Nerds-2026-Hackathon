@@ -3,7 +3,7 @@
 ### - made with an Arduino Uno, two potentiometers, a GPS chip, an lcd screen, hopes, & dreams.  
 
 # The Nerds:
-Autumn Hazel -   
+Autumn Hazel - hazel.11@wright.edu  
 Andrew Ballentine - ballentine.8@wright.edu  
 Kwaku Nhyira Sefa-Badu - Sefa-badu.2@wright.edu  
 Michael Gott -   
