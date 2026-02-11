@@ -6,5 +6,5 @@
 Autumn Hazel - hazel.11@wright.edu  
 Andrew Ballentine - ballentine.8@wright.edu  
 Kwaku Nhyira Sefa-Badu - Sefa-badu.2@wright.edu  
-Michael Gott -   
+Michael Gott - Gott.7@wright.edu  
 Tommy Dinh Khoi Nguyen Le - le.91@wright.edu  
